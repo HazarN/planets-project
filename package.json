@@ -4,12 +4,15 @@
   "description": "A file I/O project for the exoplanets that have been discovered by Kepler Space Telescope",
   "main": "app.js",
   "scripts": {
+    "start": "node ./app.js",
+    "dev": "nodemon --exec \"cls && node\" ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Hazar",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.5.6"
+    "csv-parse": "^5.5.6",
+    "nodemon": "^3.1.1"
   }
 }
