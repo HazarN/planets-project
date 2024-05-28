@@ -1,0 +1,15 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "A file I/O project for the exoplanets that have been discovered by Kepler Space Telescope",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hazar",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
