@@ -52,5 +52,5 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## Contact
 For any inquiries or feedback, please contact:
 
-- **Name** - [Email](mailto:hazarnamdarrr@gmail.com)
-- **GitHub** - [yourusername](https://github.com/hazarN)
+- **Name** - [e-mail](mailto:hazarnamdarrr@gmail.com)
+- **GitHub** - [Hazar NAMDAR](https://github.com/hazarN)
